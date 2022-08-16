@@ -1,10 +1,4 @@
-- 👋 Hi, I’m Shubhojit Banerjee
-- 👀 I’m interested in }:)
-- 🌱 I’m currently doing BTech
-- 💞️ I’m looking to collaborate on Neko Research
-- 📫 Yorushiku
+## Hi, there 
 
-<!---
-Agent-Shu/Agent-Shu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img align ="left" width="44%" src="https://github-readme-stats.vercel.app/api?username=Agent-Shu&theme=prussian&border_radius=35&show_icons=true&hide=issues">
+<img align ="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agent-Shu&layout=compact&theme=prussian&border_radius=24">

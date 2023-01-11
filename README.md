@@ -4,7 +4,7 @@ Welcoom to my profile ╰(*°▽°*)╯
 
 Myself S Banerjee, also known by my gamer tag Agent S or Agent Shu 🎮🕹
 
-I love doing IoT and microcontroller stuffs, and also writing clean and full proof code upto standards 💻
+I love doing IoT and microcontroller stuffs, and also writing clean code which is upto standards 💻
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)

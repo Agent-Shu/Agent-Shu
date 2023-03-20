@@ -2,7 +2,7 @@
 
 Welcoom to my profile ╰(*°▽°*)╯
 
-Myself S Banerjee, also known by my gamer tag Agent S or Agent Shu 🎮🕹
+I'm S Banerjee, also known by my gamer tag Agent S or Agent Shu 🎮🕹
 
 I love doing IoT and microcontroller stuffs, and also writing clean code which is upto standards 💻
 
